@@ -1,0 +1,206 @@
+
+<ClothesListing>
+      
+	          
+			       <clothes type="T-shirt">
+				        <product> Armani Jeans Crew Neck Gradient T Shirt White</product>
+						    <sex>male<sex>
+						<brand>Armani</brand>
+						<price>AU$70</price>
+						<photo>t1.jpg</photo>
+				   </clothes>
+				   <clothes type="T-shirt">
+				        <product>Armani Jeans Logo Crew Neck T Shirt Blue</product>
+						    <sex>male<sex>
+						<brand>Armani</brand>
+						<price>AU$50</price>
+						<photo>t2.jpg</photo>
+				   </clothes>
+				   <clothes type="T-shirt">
+				        <product>Versace Jeans Logo T Shirt Blue</product>
+						    <sex>male<sex>
+						<brand>Versace</brand>
+						<price> AU$100</price>
+						<photo>t3.jpg</photo>
+				   </clothes>
+				   <clothes type="T-shirt">
+				        <product>Versace Jeans Printed T Shirt Green</product>
+						    <sex>male<sex>
+						<brand>Versace</brand>
+						<price> AU$150</price>
+						<photo>t4.jpg </photo>
+				   </clothes>
+				   <clothes type="T-shirt">
+				        <product>Columbian-fit Hawaii print T-shirt</product>
+						    <sex>male<sex>
+						<brand> Armani</brand>
+						<price>AU$1000</price>
+						<photo>t5.jpg</photo>
+				   </clothes>
+				   <clothes type="Shirt">
+				        <product> Armani Collezioni Long Sleeved Check Shirt Navy</product>
+						    <sex>male<sex>
+						<brand>Armani</brand>
+						<price>AU$200</price>
+						<photo>s1.jpg</photo>
+				   </clothes>
+				   <clothes type="Shirt">
+				        <product>Versace Collezioni Long Sleeved Check Shirt Navy</product>
+						    <sex>male<sex>
+						<brand>Versace</brand>
+						<price> AU$200</price>
+						<photo>s2.jpg</photo>
+				   </clothes>
+				   <clothes type="Shirt">
+				        <product>Versace Jeans Long Sleeved Shirt Black</product>
+						    <sex>male<sex>
+						<brand>Versace</brand>
+						<price>AU$200</price>
+						<photo>s3.jpg</photo>
+				   </clothes>
+				   <clothes type="Pants">
+				        <product>Jack Honey Newbill Comfort Fit Jeans Blue</product>
+						    <sex>male<sex>
+						<brand> Jack Honey</brand>
+						<price> AU$170</price>
+						<photo>p1.jpg</photo>
+				   </clothes>
+				   <clothes type="Pants">
+				        <product>Carlo Bruni Waitom Regular Slim Fit Jeans Blue</product>
+						    <sex>male<sex>
+						<brand>Carlo Bruni</brand>
+						<price> AU$115</price>
+						<photo>p2.jpg</photo>
+				   </clothes>
+				   <clothes type="Accessories">
+				        <product>Armani Jeans Small Shoulder Bag Blue</product>
+						    <sex>male<sex>
+						<brand> Armani</brand>
+						<price> AU$125</price>
+						<photo>a1.jpg</photo>
+				   </clothes>
+				   <clothes type="Accessories">
+				        <product>Armani Exchange Reversible Belt Black </product>
+						    <sex>male<sex>
+						<brand> Armani</brand>
+						<price>AU$100</price>
+						<photo>a2.jpg</photo>
+				   </clothes>
+				   <clothes type="Accessories">
+				        <product> Versace Jeans Reversible Leather Belt Black </product>
+						    <sex>male<sex>
+						<brand> Versace</brand>
+						<price> AU$70</price>
+						<photo>a3.jpg</photo>
+				   </clothes>
+			  
+	  
+	          
+			       <clothes type="T-shirt">
+				        <product> A|X WINGS LOGO TEE</product>
+						    <sex>female<sex>
+						<brand>Armani</brand>
+						<price> AU$50</price>
+						<photo>ft1.jpg</photo>
+				   </clothes>
+				   <clothes type="T-shirt">
+				        <product>SEQUIN LOGO CREWNECK TEE</product>
+						    <sex>female<sex>
+						<brand>Armani</brand>
+						<price>AU$50</price>
+						<photo>ft2.jpg</photo>
+				   </clothes>
+				   <clothes type="T-shirt">
+				        <product>Versace Embroidered T-shirt</product>
+						    <sex>female<sex>
+						<brand>Versace</brand>
+						<price>AU$415</price>
+						<photo>ft3.jpg</photo>
+				   </clothes>
+				   <clothes type="T-shirt">
+				        <product> Versace Logo contrast top</product>
+						    <sex>female<sex>
+						<brand> Versace</brand>
+						<price>AU$1200</price>
+						<photo>ft4.jpg</photo>
+				   </clothes>
+				   <clothes type="Shirt">
+				        <product> Armani Blue stretch cotton plain shirt</product>
+						    <sex>female<sex>
+						<brand> Armani</brand>
+						<price> AU$115</price>
+						<photo>fs1.jpg</photo>
+				   </clothes>
+				   <clothes type="Shirt">
+				        <product>Armani Chambray Shirt</product>
+						    <sex>female<sex>
+						<brand> Armani</brand>
+						<price> AU$115</price>
+						<photo>fs2.jpg</photo>
+				   </clothes>
+				   <clothes type="Shirt">
+				        <product>Versace Printed silk-twill shirt</product>
+						    <sex>female<sex>
+						<brand>Versace</brand>
+						<price>AU$1350</price>
+						<photo>fs3.jpg</photo>
+				   </clothes>
+				   <clothes type="Shirt">
+				        <product> Versace Baroccoflage print shirt</product>
+						    <sex>female<sex>
+						<brand>Versace</brand>
+						<price>AU$1450</price>
+						<photo>fs4.jpg</photo>
+				   </clothes>
+				   <clothes type="Shirt">
+				        <product> Versace printed shirt</product>
+						    <sex>female<sex>
+						<brand> Versace</brand>
+						<price>AU$650</price>
+						<photo>fs5.jpg</photo>
+				   </clothes>
+				   <clothes type="Pants">
+				        <product>Carlo Bruni Cream High Waisted Wide Leg pants</product>
+						    <sex>female<sex>
+						<brand> Carlo Bruni</brand>
+						<price>AU$65</price>
+						<photo>fp1.jpg</photo>
+				   </clothes>
+				   <clothes type="Pants">
+				        <product>Jack Honey loose fit cropped pants</product>
+						    <sex>female<sex>
+						<brand>Jack Honey</brand>
+						<price> AU$115</price>
+						<photo>fp2.jpg</photo>
+				   </clothes>
+				   <clothes type="Pants">
+				        <product>Jack Honey striped flared trousers</product>
+						    <sex>female<sex>
+						<brand>Jack Honey</brand>
+						<price>AU$515</price>
+						<photo>fp3.jpg</photo>
+				   </clothes>
+				   <clothes type="Accessories">
+				        <product> Versace Medusa belt</product>
+						    <sex>female<sex>
+						<brand> Versace</brand>
+						<price>AU$666</price>
+						<photo>fa1.jpg</photo>
+				   </clothes>
+				   <clothes type="Accessories">
+				        <product> Armani Borsa Bag</product>
+						    <sex>female<sex>
+						<brand>Armani</brand>
+						<price>AU$666</price>
+						<photo>fa2.jpg</photo>
+				   </clothes>
+				   <clothes type="Accessories">
+				        <product>Carlo Bruni clutch </product>
+						    <sex>female<sex>
+						<brand> Carlo Bruni</brand>
+						<price> AU$1666</price>
+						<photo>fa3.jpg</photo>
+				   </clothes>
+			  
+	  
+</ClothesListing>	  
