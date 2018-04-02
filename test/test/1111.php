@@ -3,7 +3,7 @@
     $password=trim($_POST["password"]);
     $sql="select password from user where username='$name'";
     $result=oci_fetch_array($stmt);
-    
+    //注释
          if($password==$result{
             $check=1
          }
